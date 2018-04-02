@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ruby -rjson -e 'j = JSON.parse(STDIN.read);'
